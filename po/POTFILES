@@ -1,0 +1,6 @@
+data/org.opusfocus.app.desktop.in
+data/org.opusfocus.app.metainfo.xml.in
+data/org.opusfocus.app.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
