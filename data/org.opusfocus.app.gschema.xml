@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<schemalist gettext-domain="opusfocus1">
-	<schema id="org.opusfocus.app" path="/org/opusfocus/app/">
-	</schema>
-</schemalist>
